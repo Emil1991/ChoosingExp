@@ -25,8 +25,8 @@ class GameFooter extends Component {
 
     render() {
         return(
-                <div id="GameFooter" className="br-1"> 
-                Footer
+                <div id="GameFooter" className="br-1 r"> 
+                <button>Vote!</button>
                 {/* {this.props.children} */}
                 </div>
         )

@@ -25,7 +25,7 @@ class GameBody extends Component {
 
     render() {
         return(
-                <div id="GameBody" className="br-1"> 
+                <div id="GameBody" className="br-1 r"> 
                 Body
                 {/* {this.props.children} */}
                 </div>

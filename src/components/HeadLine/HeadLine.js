@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import "./Timer.css"
+import "./HeadLine.css"
 
 
-class Timer extends Component {
+class HeadLine extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -25,12 +25,13 @@ class Timer extends Component {
 
     render() {
         return(
-                <div id="Timer" className="br-1w"> 
-                Time left:<br></br>
-                XXX
+                <div id="HeadLine" className="br-1w"> 
+                Round #13<br>
+                </br>
+                Voting Plurality
                 </div>
         )
     }
 }
 
-export default Timer;
+export default HeadLine;

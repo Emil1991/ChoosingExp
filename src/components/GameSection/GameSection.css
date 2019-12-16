@@ -1,6 +1,6 @@
 #GameSection{
     display:grid;
-    align-items: center;
+    align-content: center;
     grid-template-rows: 1.5fr 3fr 1fr;
-    grid-template-columns: 1fr;
+   
 }

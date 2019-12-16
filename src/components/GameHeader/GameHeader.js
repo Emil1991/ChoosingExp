@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./GameHeader.css"
 import Timer from "../Timer/Timer"
+import Headline from "./../HeadLine/HeadLine"
 
 
 class GameHeader extends Component {
@@ -28,9 +29,7 @@ class GameHeader extends Component {
         return(
                 <div id="GameHeader" className="br-1 r bg-blue"> 
                 <Timer></Timer>
-                <div className="br-1w">
-                    Headline
-                </div>
+                <Headline></Headline>
                 {/* {this.props.children} */}
                 </div>
         )
