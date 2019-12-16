@@ -1,0 +1,8 @@
+#GameHeader{
+    margin:1em;
+    padding: 1em;
+    height: 15%;
+    color: cornsilk;
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+}

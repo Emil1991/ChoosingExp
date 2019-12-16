@@ -1,0 +1,7 @@
+#Timer{
+    display: grid;
+    justify-content: flex-start;
+    align-content: center;
+    padding-left: 7.5%;
+    font-size: 2em;
+}

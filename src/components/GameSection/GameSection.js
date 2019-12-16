@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import GameHeader from "../GameHeader/GameHeader"
+import GameBody from "../GameBody/GameBody"
+import GameFooter from "../GameFooter/GameFooter"
 
 
 
@@ -26,8 +29,9 @@ class GameSection extends Component {
     render() {
         return(
                 <div id="GameSection" className="br-1"> 
-                LL
-                {/* {this.props.children} */}
+                <GameHeader></GameHeader>
+                <GameBody></GameBody>
+                <GameFooter></GameFooter>
                 </div>
         )
     }
