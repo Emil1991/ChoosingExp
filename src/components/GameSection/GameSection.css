@@ -2,5 +2,5 @@
     display:grid;
     align-content: center;
     grid-template-rows: 1.5fr 3fr 1fr;
-   
+   background-color: white;
 }

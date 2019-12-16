@@ -6,9 +6,9 @@
 #OldestGrid{
   text-align: center;
   display:grid;
-  grid-template-columns:1fr 2fr 1fr ;
+  grid-template-columns:0.75fr 2fr 0.75fr ;
   height: 100vh;
-  background-color: #B1C3D1;
+ 
 }
 
 .br-1{

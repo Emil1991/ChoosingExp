@@ -1,8 +1,8 @@
 import React, { Component } from "react";
+import "./RewardSection.css"
 
 
-
-class RewardSection extends Component {
+class  RewardSection extends Component {
     constructor(props) {
         super(props);
         this.state = {

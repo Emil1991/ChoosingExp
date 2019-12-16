@@ -1,6 +1,12 @@
 #GameBody{
+    display: grid;
+    justify-content: flex-start;
+    grid-template-rows: 3fr 94fr 3fr;
+    grid-template-columns: 1fr;
     margin:1em;
     padding: 1em;
-    height: 65vh;
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 67vh;
     background-color: white;
 }
