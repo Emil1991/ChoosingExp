@@ -34,7 +34,7 @@ class InfoSection extends Component {
                     <span style={{"fontSize":"0.7em"}}>
                         Total voters: XXX
                     </span><br></br><br></br>
-                    <div id="candidates" style={{"textAlign":"left","paddingLeft":"10%","fontSize":"0.7em"}}>
+                    <div id="candidates">
                         <div className="br-1">Dilen:</div><div>34</div><div>-------------</div>
                         <div>Morgan:</div><div>25</div><div>-----------</div>
                         <div>Danny:</div><div>19</div><div>-------</div>
