@@ -26,3 +26,14 @@
 .bg-blue{
   background-color: #173F5F;
 }
+
+.al-l{
+  text-align: start;
+}
+
+.al-c{
+  text-align: center;
+}
+.al-r{
+  text-align: right;
+}
