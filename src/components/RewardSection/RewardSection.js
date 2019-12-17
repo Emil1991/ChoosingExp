@@ -26,7 +26,10 @@ class  RewardSection extends Component {
     render() {
         return(
                 <div id="RewardSection" className="br-1"> 
-                HE
+                <div id="Reward" className="r br-1">
+                    <p>Reward you get if<br></br> the following<br></br> candidate wins:</p>
+                </div>
+
                 {/* {this.props.children} */}
                 </div>
         )

@@ -28,7 +28,7 @@ class HeadLine extends Component {
                 <div id="HeadLine" className="br-1w"> 
                 Round #13<br>
                 </br>
-                Voting Plurality
+                Voting rule: Plurality
                 </div>
         )
     }

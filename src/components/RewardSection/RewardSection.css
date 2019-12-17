@@ -1,3 +1,21 @@
 #RewardSection{
-    background-color: #B1C3D1;
+    background-color: #e3eaf1;
+    /* display:grid; */
+    /* grid-template-rows: 1; */
+    /* justify-content: center;
+    align-content: center; */
+    
+}
+
+#Reward{
+    background-color: #c6d4ef;
+    position: relative;
+    height: 80%;
+    width: 95%;
+    left:50%; 
+    transform: translateX(-50%);
+    top:10%;
+    padding-top: 15%;
+    font-size: 2em;
+
 }
